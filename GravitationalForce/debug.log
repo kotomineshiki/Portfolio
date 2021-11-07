@@ -1,0 +1,9 @@
+[1104/015739.383:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1104/015739.417:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:1580 gpu-process-sandbox:1
+[1104/015739.438:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1104/015739.579:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1104/015939.453:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1106/002803.047:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 1
+[1106/002803.067:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 1
+[1106/002803.080:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 3
+[1106/002807.027:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
